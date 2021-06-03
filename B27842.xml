@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The figure of five Under which figure is exprest, many a pretty, witty jest: and sollid reason therewith blended, to please all sorts, it is intended. By M.P. Being the volume is very small. Reade it quite through, or else leave it all.</title>
+            <author>M. P. (Martin Parker), d. 1656?</author>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27842</idno><idno type="EEBO-CITATION">99827429</idno>
+  <idno type="VID">207521</idno>
+  <idno type="EEBO-PROQUEST">2240864312</idno>
+  
+            <idno type="STC">Wing P437bA</idno>
+            <idno type="PROQUEST">99827429</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99827429e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27842)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207521)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1893:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The figure of five Under which figure is exprest, many a pretty, witty jest: and sollid reason therewith blended, to please all sorts, it is intended. By M.P. Being the volume is very small. Reade it quite through, or else leave it all.</title>
+                  <author>M. P. (Martin Parker), d. 1656?</author>
+               </titleStmt>
+               <extent>[20] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, at the vpper end of the Old-Baily, neare ..,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1645?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>M.P. = Martin Parker.</note>
+                  <note>Place of publication from and date conjectured by Wing.</note>
+                  <note>Signatures: A B⁴ (-A1 and B4, blank?).</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207521:1"/>
+            <pb facs="tcp:207521:1"/>
+            <p> THE FIGVRE OF FIVE.</p>
+            <lg>
+               <l>Vnder which figure is exprest,</l>
+               <l>Many a pretty, witty jest:</l>
+               <l>And sollid reason therewith blended,</l>
+               <l>To please all sorts, it is intended.</l>
+            </lg>
+            <p>By M. P.</p>
+            <lg>
+               <l>Being the Uolume is very small.</l>
+               <l>Reade it quite through, or else leave it all.</l>
+            </lg>
+            <p>Printed for <hi>F. Coles,</hi> at the vpper end of the Old-Baily, neare N<gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <pb facs="tcp:207521:2"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:207521:2"/>
+            <head>TO <hi>The Curteous Rea<g ref="char:EOLhyphen"/>der</hi> of any qua<g ref="char:EOLhyphen"/>litie.</head>
+            <p>FIgures (courteous readers) as they are of divers kinds, so have they severall significa<g ref="char:EOLhyphen"/>tions; by one manner of Fi<g ref="char:EOLhyphen"/>gures we are aptly taught to calculate or number the com<g ref="char:EOLhyphen"/>putation of times, as yeeres, months, weekes, dayes, houres and minutes: to make exact &amp; particular reckning of mo<g ref="char:EOLhyphen"/>ny, by pounds, shillings, pence halfepence, and farthings: to observe measures, as barly cornes, inches, feete, cubits, yardes, rods, poles, akers, fur<g ref="char:EOLhyphen"/>longs, and Miles: to know
+<pb facs="tcp:207521:3"/> weight, as pounds, half pounds quarters, ounces, halfe ounces and quarters, penny weights, scruples, graines and drams. Another sort of figures may bee said to be used when the curious Artist doth deci<g ref="char:EOLhyphen"/>pher and proportion the live<g ref="char:EOLhyphen"/>ly effigies or shadow of man or woman, bird, or beast, fowle, or fish, hearbes, plants or trees, and any other thing, that is exactly done, is rightly said to be figured; A third sort of figure (and that the chiefe) is that manner of covert spea<g ref="char:EOLhyphen"/>king &amp; writing for ornament of language, which is used by Poets, Orators, &amp; Rhetorici<g ref="char:EOLhyphen"/>ans. I cannot punctually say which of al these, I come most neare vnto, in this my booke; but this I dare promise that
+<pb facs="tcp:207521:3"/> whosoever viewes it with <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> judiciall survay, though it be small in volume, shal find that it holds a fit correspondency, and harmonicall relation to either, the truth of which thou shalt find in the perusall. And if any demand why I choose such subjects to spend time upon: I answere, that whereas heretofore there hath the like labour beene spent upon the figures of three and foure, I thought good to try my A<g ref="char:EOLhyphen"/>rithmeticke, in casting up these so many accounts that have reference ro the figure: of five: to conclude, thou shalt finde many pretty conceites figured out in lively colours, which I hope shall both con<g ref="char:EOLhyphen"/>tent the eye, care, and heart o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Reader or Hearer, howsoe<g ref="char:EOLhyphen"/>ver
+<pb facs="tcp:207521:4"/> it is now at hap-hazard committed to publike cen<g ref="char:EOLhyphen"/>sure; and is resolved to try the adventure of respect, or ne<g ref="char:EOLhyphen"/>glect the first of these wishing to obtaine, I submit to thy charitable opinion, and rest</p>
+            <closer>
+               <signed>
+                  <hi>Thine now and hereafter,</hi> M. P.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:207521:4"/>
+            <head>THE FIGVRE OF FIVE.</head>
+            <p n="1">1 THere bee five men chiefly noted in holy Writ: A<g ref="char:EOLhyphen"/>dam for being the first man, Me<g ref="char:EOLhyphen"/>thusala for being the oldest man, Iob for a patient man, Samson for a strong man, and Salomon for a wise man.</p>
+            <p n="2">2 There be also five men noto<g ref="char:EOLhyphen"/>riously in famous in the Scriptures: Cain for killing his brother Abell, Cham for discovering his fathers nakednesse, Absolon for rebellion against his Father, Judas, for be<g ref="char:EOLhyphen"/>traying his Lord, and Pilate for condemning the same Christ.</p>
+            <p n="3">3 There be five degrees of men
+<pb facs="tcp:207521:5"/> under the Soveraigne: the Noble<g ref="char:EOLhyphen"/>man, Clergy man, and the gentle<g ref="char:EOLhyphen"/>man, the Husbandman, and the Tradesman.</p>
+            <p n="4">4 There be five orders of Knight<g ref="char:EOLhyphen"/>hood in England: Knight of the Garter, Knight Barronet, Knight Banneret, Knight of the Bath, and Knight Batcheler.</p>
+            <p n="5">5 There bee five warme things that especially preserve the life of man, warme meat, warm clothes, warme fire, warme lodging, with <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> warme bedfellow.</p>
+            <p n="6">6 There bee five short things which most people desire: A short sentence, a short grace, a short prai<g ref="char:EOLhyphen"/>er, a short sermon, and a short sea<g ref="char:EOLhyphen"/>son of ill weather.</p>
+            <p n="7">7 There be five sorts of horses, the war horse, the hunting horse, the cart horse, the coach horse, and the hobby horse.</p>
+            <p n="8">8 There bee five sorts of men fearefull to meete; A Sergeant to a banquerout, a Constable in pres<g ref="char:EOLhyphen"/>sing time to a Coward, a Beadle to
+<pb facs="tcp:207521:5"/> a vagabond, a hangman to a theife, and a strong theefe to a weake rich Traueller.</p>
+            <p n="9">9 There be five kindes of men that live by cutting: A Cutter of stone, a cutter of wood, a cutter of Tobacco, a cutter of throates, and a cutter of purses.</p>
+            <p n="10">10 There be five notable qua<g ref="char:EOLhyphen"/>lities in a Porter: he is a man of great understanding, though he be no scholler, he is a patient man for he beares much, he is a temperate man, for hee'll carry much sacke without being drunke; he rests oft though hee be neither Sargeant, Bailiffe, nor Marshals man, and for all he does he can shew licence.</p>
+            <p n="11">11 There be five Hackneyes, a hackney man, a hackney turnep, a hackney Coach, a hackney Horse, and a hackney Whore.</p>
+            <p n="12">12 There bee five manner of Wives: that rather cumber than comfort their husbands, a whorish wife a scoulding wife, a sluttish wife, a lazy wife, and a foolish wife. </p>
+            <p n="13">
+               <pb facs="tcp:207521:6"/> 13 There be five famous stiles beginning with the letter P. Patri<g ref="char:EOLhyphen"/>arkes, Prophets, Poets, Philoso<g ref="char:EOLhyphen"/>phers and Physicians.</p>
+            <p n="14">14 There bee five things that have a fit resemblance to the five senses by contrary enterchange, the Winde is heard and not seene, the Sun is seene and not heard, a Louse is felt when shees neither heard nor seene. Milke is tasted but not smelt, and a fart is smelt and not tasted.</p>
+            <p n="15">15 There bee five that are men by profession, though otherwise dwarffs: a meale man, a water man a broome man, a mault man, and a hangman.</p>
+            <p n="16">16 There bee five sorts of good liquor made in England: Ale, Beere, Cyder, Perry, and Metheg<g ref="char:EOLhyphen"/>lin.</p>
+            <p n="17">17 There be five kindes of cases, a Capcase, a fidle case, a Candle-case, combe case, and a Law case.</p>
+            <p n="18">18 There bee five things almost in continual motion: at Ship at sea,
+<pb facs="tcp:207521:6"/> a flea, an aspen leafe, a dogs taile, and a womans tongue.</p>
+            <p n="19">19 There bee five things very comfortable to a man, quiet sleepe, good wine, cleanely diet, sweets musicke, and a patient wife.</p>
+            <p n="20">20 There bee five necessarie quicke things in a house: a mouse<g ref="char:EOLhyphen"/>sing Cat, a watchfull dog, a wake<g ref="char:EOLhyphen"/>full Cocke, a fruitfull Hen, and a huswifely woman.</p>
+            <p n="21">21 There bee five most noted games at dice: In and in, Passage, Hazard, Tray-trip, and Mum<g ref="char:EOLhyphen"/>chance.</p>
+            <p n="22">22 There be five vertuous pro<g ref="char:EOLhyphen"/>perties belonging to a good Wo<g ref="char:EOLhyphen"/>man: a modest looke, a civill be<g ref="char:EOLhyphen"/>haviour, a curteous speech, a come<g ref="char:EOLhyphen"/>ly habit, and (chiefly) a constant loyalty to her husband.</p>
+            <p n="23">23 There bee five sorts of men either of which if a woman match withall, shee's unhappy; a whore<g ref="char:EOLhyphen"/>monger, a common Drunkard, a peevish foole, a medling cotquean and a jealous Coxcombe.</p>
+            <p n="24">
+               <pb facs="tcp:207521:7"/> 24 There bee five muches, for which most men covet: much wealth, much honour, much strength, much skill, and especial<g ref="char:EOLhyphen"/>ly much praise.</p>
+            <p n="25">25 There bee five things com<g ref="char:EOLhyphen"/>mon to all men for their money: a Barbers chaire, a watermans boat, an Ale-house bench, a play▪house, and a whores house.</p>
+            <p n="26">26 There bee five well noted prisons within the liberty of Lon<g ref="char:EOLhyphen"/>don: Newgate, Ludgate, old bride<g ref="char:EOLhyphen"/>well, and the two Counters.</p>
+            <p n="27">27 There be also five like pri<g ref="char:EOLhyphen"/>sons in the borough of South wark the Kings bench, the white Lion, the Marshals seas, the Counter, &amp; the Clinke.</p>
+            <p n="28">28 There be likewise five pri<g ref="char:EOLhyphen"/>sons without the freedome: the Fleet, the newbridewell, the new prison, the round house, and Fins<g ref="char:EOLhyphen"/>bury Jayle.</p>
+            <p n="29">29 There be five chiefe officers belonging to a Noble personage: the Steward, the Gentleman usher
+<pb facs="tcp:207521:7"/> the Gentleman of the Horse, the Groome of the Chamber, and the Clarke of the kitching.</p>
+            <p n="30">30 There be five inferiour offi<g ref="char:EOLhyphen"/>cers which cannot bee mist in a house of Honour; the Bruer, the Baker, the Cooke, the Butler, and the Caterer.</p>
+            <p n="31">31 There be five Tradesmen chiefly imployed about building: a Carpenter, a Mason, a Brickma<g ref="char:EOLhyphen"/>ker, a Smith, and a glazier.</p>
+            <p n="32">32 There bee five things that chiefly uphold a common wealth: Money, Navigation, warfare, hus<g ref="char:EOLhyphen"/>bandry, and clothing.</p>
+            <p n="33">33 There bee five men odious to honest company: a prophane swearer, a desperate Quareller, an obscaene talker, a cheating de<g ref="char:EOLhyphen"/>coy and a stinking sot.</p>
+            <p n="35">35 There bee five Women as till to bee endured: An arrant scould, a drunken sowe, a snufling bawd, a shamelesse whore, and a carry tale gossip.</p>
+            <p n="35">35 There bee five Vices that
+<pb facs="tcp:207521:8"/> bring many a man to ruine: Pride, Prodigality, Luxury, Drunkennes, and gaming.</p>
+            <p n="36">36 There bee five trades that are chiefe agents to pride: Tay<g ref="char:EOLhyphen"/>lors, Feather-makers, Perfumers, Sempsters, and Imbroderers.</p>
+            <p n="37">37 There be five things which a Taylor cannot worke without: a pressing yron, a payre of sheeres, a measure, a Needle, and a Thim<g ref="char:EOLhyphen"/>ble.</p>
+            <p n="38">38 There be five men that get money by other mens brawlings, a Lawyer, a Chirurgion, a Souldier, a Fencer, and an Aparator.</p>
+            <p n="39">39 There bee five noted pay<g ref="char:EOLhyphen"/>ments betweene the halfepenny and the pound: a penny, a shilling, a crowne, a noble, and a marke.</p>
+            <p n="40">40 There be five common Ma<g ref="char:EOLhyphen"/>sters: a Master of defence, a Ma<g ref="char:EOLhyphen"/>ster of a family, a Master of a ship, a Schoole Master, and a Whoore-Master.</p>
+            <p n="41">41 There bee five noted com<g ref="char:EOLhyphen"/>panions: a boone companion, a
+<pb facs="tcp:207521:8"/> base companion, a lazycompanion, a saucy companion, and a beggerly companion.</p>
+            <p n="42">42 There be five greasie Com<g ref="char:EOLhyphen"/>panions: a Butcher, a Cooke, a tallow Chaundler, a sope boyler, and a Kitchin stuffe wench.</p>
+            <p n="43">43 There be five monosillables, which containe all the World: Mine, thine, his, hers, and theirs.</p>
+            <p n="44">44 There be five smiths: a gold<g ref="char:EOLhyphen"/>smith a silver smith, a blacksmith, a coppersmith, a Tom smith.</p>
+            <p n="45">45 There be five Vshers: An Vsher to a grammer schoole, an V<g ref="char:EOLhyphen"/>sher to a fencing schoole, an Vsher to a dancing schoole, an Vsher of a Hall, and a gentleman Vsher.</p>
+            <p n="46">46 There be five especiall Uer<g ref="char:EOLhyphen"/>tues requisite in every Christian: Constancy in Gods cause, loyalty towards his Prince, charity to<g ref="char:EOLhyphen"/>ward the poore, love to al people, and patience to beare all crosses.</p>
+            <p n="47">47 There be five vices oppo<g ref="char:EOLhyphen"/>site to those five vertues: to be lukewarme in Religion, treache<g ref="char:EOLhyphen"/>rous
+<pb facs="tcp:207521:9"/> against his King, hard hearted to the poore, to be in hatred with his Neighbours, and to repine at Gods chastisements.</p>
+            <p n="48">48 There bee five chiefe com<g ref="char:EOLhyphen"/>manders in a Campe, a Lieutenant, Generall, the Sergeant Major, the Muster-master, and the Captaine.</p>
+            <p n="49">49 There be also five officers of note under a Captaine: the Lief<g ref="char:EOLhyphen"/>enant, the Ensigne, the Sergeant, he Corporall, and the Drummer.</p>
+            <p n="50">50 There be five chiefe officers <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> a ship, the Captaine, the Master, the Steward, the purser, and the boat-swaine.</p>
+            <p n="51">51 There be five Tradesmen that chiefly thrive by warre, Ar<g ref="char:EOLhyphen"/>mourers, Gunmakers, pike makers Cutlers, and Girdlers.</p>
+            <p n="52">52 There were five famous La<g ref="char:EOLhyphen"/>tine Poets: Ovid, Virgil, Lucan, Propertius, Horace.</p>
+            <p n="53">53 There were likewise five most exquisite paynters: Allche-Bacchacius. Mechus, Alexis, Apel<g ref="char:EOLhyphen"/>les and Zeuxis.</p>
+            <p n="54">
+               <pb facs="tcp:207521:9"/> 54 There be five extraordina<g ref="char:EOLhyphen"/>ry drunkards and gluttons left in memory to posterity, Bonetius, Darius, Milo, Phagoe, and Trico<g ref="char:EOLhyphen"/>nes.</p>
+            <p n="55">55 There be five things which makes a good fellow willing to spend his money, an honest host, a good fire, good liquor, good to<g ref="char:EOLhyphen"/>bacco, and a merry hostesse.</p>
+            <p n="56">56 There be five sorts of fooles, a naturall foole, a great mans foole, a foole in a play, a foole in a morris dance, and a Lawyers foole.</p>
+            <p n="57">57 There be five base officers in London, a hangman, a Beadle, a promooter, a catchpoule, and the Beares bagpiper.</p>
+            <p n="58">58 There bee five sorts of Bat<g ref="char:EOLhyphen"/>chelers: a Batcheler of the Law, a Batcheler of Art, a Batcheler of Divinity, a Knight Batcheler, and one that was never married.</p>
+            <p n="59">59 There be five sorts of Her<g ref="char:EOLhyphen"/>rings: fresh herring, pickled her<g ref="char:EOLhyphen"/>ring, blote herring, red herring and loane herring, the pie wench.</p>
+            <p n="60">
+               <pb facs="tcp:207521:10"/> 60 There bee five naturall re<g ref="char:EOLhyphen"/>semblances betwixt birds and man kind: the Pellican teacheth pa<g ref="char:EOLhyphen"/>rents love to their Children, the stork natural love to their parents, the Turtle dove correspondency betwixt lovers, the phoenix conti<g ref="char:EOLhyphen"/>nency, and the sparrow, inordinate lust.</p>
+            <p n="61">61 There bee also five Beastes which be fit emblems of wicked men; the hyena, the crocodill, and the fox for teacherous murtherers, the goat for a letcher, and the woolfe for a covetous wretch.</p>
+            <p n="62">62 There be five things requisite in a well governed cōmon wealth: the Judges to hate bribery, the Clergy men simony, the Nobles disloyalty, the Gentry malignity, and the commons mutiny.</p>
+            <p n="63">63 There be five imaginary ri<g ref="char:EOLhyphen"/>vers in hell, Acheron, Avernus, Cocitus, Stix and Phlegiton.</p>
+            <p n="64">64 There be five men which as the Poets faigne, are particularly tormented in hell, Ix<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on is said to
+<pb facs="tcp:207521:10"/> turne a restlesse wheele, Prome<g ref="char:EOLhyphen"/>theus is faigned to have his heart gnawed by a Uultur, Siciphus to roll a restlesse stone against a hill, Ohennus to make ropes, which an Asse that stands by, bites in sunder: Tantalus stands up to the chin in water, and cannot drinke, and hath apples, bobbing at hislips, and can<g ref="char:EOLhyphen"/>not eate any.</p>
+            <p n="63">63 There bee five sorts of Cuc<g ref="char:EOLhyphen"/>kolds: a merry Cuckold, a mad Cuckold, a melancholly Cuckold, a conceited Cuckold, ane a conten<g ref="char:EOLhyphen"/>ted Cuckold.</p>
+            <p n="66">66 There be five sorts of men unworthy to live in a common wealth, hee that hath wealth e<g ref="char:EOLhyphen"/>nough, and does no good with it: he that sels his patrimony to main<g ref="char:EOLhyphen"/>taine whoores, he that drinkes all day at the Althouse while his fa<g ref="char:EOLhyphen"/>mily starves at home, hee that for<g ref="char:EOLhyphen"/>sweares himselfe for a trifle, and he that has a good wife and will not use her well.</p>
+            <p n="67">67. There be five men pittifull
+<pb facs="tcp:207521:11"/> to behold, a man without honesty a man without mercy, a man with out wit, a man without clothes, and a man without mony.</p>
+            <p n="68">68 There be five outs whic<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> many man are vext withall, drink<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> out o'th pot, tobacco out o'th pip<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> wit out o'th head, money out o't<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> purse, and wife out o'th bed.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:207521:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
